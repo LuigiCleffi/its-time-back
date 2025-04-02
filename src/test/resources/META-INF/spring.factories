@@ -1,0 +1,4 @@
+org.springframework.test.context.ContextCustomizerFactory = \
+    com.pauseforcode.itstime.config.\
+    SqlTestContainersSpringContextCustomizerFactory,com.pauseforcode.itstime.\
+    config.RedisTestContainersSpringContextCustomizerFactory
